@@ -5,3 +5,5 @@ shoma chetorid?
 ------------
 
 this is new feature to test
+
+new line after push master ti github
